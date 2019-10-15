@@ -1,0 +1,4 @@
+S1	toyA1.bam	A
+S2	toyA2.bam	A
+S3	toyB1.bam	B
+S4	toyB2.bam	B

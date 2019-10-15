@@ -1,0 +1,3 @@
+#ff0000	red
+#33cc33	green
+#000000	black
